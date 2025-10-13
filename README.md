@@ -314,3 +314,5 @@ assembling the subprogram. However, the subprogram file can override the instruc
 using its own `#pragma target` directive.
 
 [^1]: Under no circumstances must it be called the geth assembler.
+
+<!-- Auto-update: 2025-10-14T06:26:08.376581 -->
